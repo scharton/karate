@@ -7,3 +7,5 @@ gradlew.bat
 settings.gradle
 build/
 bin/
+.settings/
+.vscode/
