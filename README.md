@@ -6,3 +6,5 @@ Intuit karate test harness.
 Use Gradle to use this project.
 
 * `gradle test`
+
+This is work in progress.
