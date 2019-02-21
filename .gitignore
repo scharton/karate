@@ -9,3 +9,6 @@ build/
 bin/
 .settings/
 .vscode/
+node_modules/
+target/
+package-lock.json
