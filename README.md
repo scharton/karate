@@ -1,10 +1,16 @@
 # Description
 This project is a light prototype to demonstrate the 
-Intuit karate test harness.
+Intuit [Karate](https://github.com/intuit/karate) test harness.
 
 # Usage
-Use Gradle to use this project.
+This project requires Gradle to build and test.
 
 * `gradle test`
 
-This is work in progress.
+# Features
+The `Runner.java` class introduced the necessary connection with
+JUnit to discover and run all `.feature` test files down the 
+folder hierarchy.
+
+There are ways to isolate and run specific features that will be 
+added later (or read the docs).
